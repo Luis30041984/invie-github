@@ -1,4 +1,4 @@
-# ¿Qé aha cambiado?
+# ¿Qué ha cambiado?
 - [ ] Frontend
 - [ ] Backend
 - [ ] Configuración del server  
